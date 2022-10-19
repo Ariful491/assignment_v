@@ -1,5 +1,5 @@
-#About
-
+About
+------
 #I am using Dependency  injection   in products crud & API ,
 but not in role permissions [For time],
 
@@ -13,23 +13,27 @@ but not in role permissions [For time],
 8. User crud role permission on the product (according to permission users will be able to perform specified CRUD operations).
 
 Hope fully  All requirement have done. if any kind of issues please contact me.
+[N.B : Doesn't use any kind of packages]
 
-#Api List
+Api List
+------
 
 - [Api list Link](https://www.getpostman.com/collections/46cfb22cd0bc0e495b6f).
 - [Base URL(assign)](http://127.0.0.1:8000/api/assignment).
-
-### environment variable
+Environment variable
+------
 {{assign}} == http://127.0.0.1:8000/api/assignment
 
-#Technolgoy
+Technolgoy
+------
 #### laravel 
 #### Vue js 
 #### Inertia js 
 #### Tailwind Css 
 
 
-##installation
+installation
+------
 ``` bash
   git clone https://github.com/Ariful491/assignment.git
   
@@ -60,11 +64,13 @@ Open your .env file and change the database name (DB_DATABASE) to whatever you h
    
 ```
 
-###After seeding
+ After seeding
+ ------
 
 you will get   all default data that's you prepared.
  
-##short demo screen short
+Short demo screen short
+------
 ![Screenshot 2022-09-10 223131](https://user-images.githubusercontent.com/52754507/189492846-dad72571-2a72-4506-b569-cbd6ab20154e.png)
 ![Screenshot 2022-09-10 223114](https://user-images.githubusercontent.com/52754507/189492847-43594f9a-47af-4552-98dd-88b3e6857d4b.png)
 ![Screenshot 2022-09-10 223035](https://user-images.githubusercontent.com/52754507/189492849-7c3bb668-7aec-453a-abe0-cf698eb549c1.png)
